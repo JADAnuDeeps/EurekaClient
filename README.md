@@ -1,7 +1,7 @@
 +--------------------------------------------------------+
 
 |                      Eureka Server                     |
-|                 (Registry on Port 8761)                 |
+|                 (Registry on Port 9099)                 |
 +---------------------------^----------------------------+
                             |
              Registers / Heartbeats / Fetches
